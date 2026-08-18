@@ -18,6 +18,7 @@ from src.core.earth_engine import EarthEngineTunnel
 from src.analyzers.emergency.earthquake import EarthquakeAnalyzer
 from src.analyzers.emergency.infrastructure_blackout import InfrastructureBlackoutAnalyzer
 from src.analyzers.emergency.cyber_impact import CyberImpactAnalyzer
+from src.analyzers.emergency.road_blockade import RoadBlockadeAnalyzer
 
 
 
