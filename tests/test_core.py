@@ -16,6 +16,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from src.core.stac_client import StacClient
 from src.core.earth_engine import EarthEngineTunnel
 from src.analyzers.emergency.earthquake import EarthquakeAnalyzer
+from src.analyzers.emergency.infrastructure_blackout import InfrastructureBlackoutAnalyzer
+from src.analyzers.emergency.cyber_impact import CyberImpactAnalyzer
+
 
 
 def test_satellite_brain_pipeline():
