@@ -1,0 +1,2 @@
+# Keep directory structure intact in git version control.
+# Satellite outputs and raw GeoJSON input buffers stream through here.
