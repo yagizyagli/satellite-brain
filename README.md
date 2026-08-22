@@ -55,7 +55,7 @@ satellite-brain/
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/yagizyagli/satellite-brain
+git clone https://github.com
 cd satellite-brain
 ```
 
